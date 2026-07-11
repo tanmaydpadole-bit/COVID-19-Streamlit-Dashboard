@@ -1,26 +1,40 @@
-## Dashboard Preview
+# 💉 COVID-19 India Vaccination Dashboard
 
-### Excel Dashboard
+An interactive COVID-19 India Vaccination Dashboard built using Python, Streamlit, Plotly, and Pandas.
 
-![Excel Dashboard](excel_dashboard/covid19_excel_dashboard.png)
+## 🚀 Live Demo
 
-### 
-https://covid-19-app-dashboard-advkm4lufhpxddiakeshj5.streamlit.app/
+👉 https://covid-19-app-dashboard-advkm4lufhpxddiakeshj5.streamlit.app/
 
-### Streamlit Dashboard
+## 📂 GitHub Repository
 
-<img width="1672" height="810" alt="1" src="https://github.com/user-attachments/assets/927e6ea9-f354-445f-b208-12bbf75ef7fa" />
+👉 https://github.com/tanmaydpadole-bit/COVID-19-Streamlit-Dashboard
 
-<img width="1911" height="962" alt="2" src="https://github.com/user-attachments/assets/d29c2767-4d18-4e72-a50f-bdb2de815454" />
+## 📊 Dashboard Features
 
-<img width="1918" height="832" alt="3" src="https://github.com/user-attachments/assets/f54dc880-a6bf-45ed-b845-08a2f0cf7d66" />
+- Interactive State Filter
+- KPI Cards
+- Top 10 Vaccination Analysis
+- Dose 1 vs Dose 2 Comparison
+- Vaccination Percentage Analysis
+- Population Analysis
+- Business Insights
+- Download Filtered Data
 
-<img width="1917" height="798" alt="4" src="https://github.com/user-attachments/assets/73d51b49-675f-4450-92e8-41a212f2e7dd" />
+## 🛠️ Technologies Used
 
-<img width="1918" height="960" alt="5" src="https://github.com/user-attachments/assets/e9e737e9-0b7a-42b6-83a4-1de63da0768e" />
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- OpenPyXL
 
+## 📸 Dashboard Preview
 
+![Dashboard](Screenshot/your_dashboard_image.png)
 
+## 👨‍💻 Author
 
+Tanmay Padole
 
-
+LinkedIn: https://www.linkedin.com/in/tanmay-padole/
